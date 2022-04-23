@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fad6d34e.css",
+    "main.js": "/static/js/main.a9b8706b.js",
+    "static/media/crazybillzlogo.svg": "/static/media/crazybillzlogo.2816b12ed2760dd2c63aeccbb448af8b.svg",
+    "index.html": "/index.html",
+    "main.fad6d34e.css.map": "/static/css/main.fad6d34e.css.map",
+    "main.a9b8706b.js.map": "/static/js/main.a9b8706b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fad6d34e.css",
+    "static/js/main.a9b8706b.js"
+  ]
+}
